@@ -3,6 +3,9 @@
 made a simple sgpa calculator
 
 future improvements:
-  gui interface
-  cgpa calculator
-  hosting it in a web site
+
+    gui interface 
+    
+    cgpa calculator
+    
+    hosting it in a web site
